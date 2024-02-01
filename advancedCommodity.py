@@ -1,5 +1,5 @@
 '''
-Program Name: Advanced Commodity Data "Final Project"
+Program Name: "Advanced Commodity Data Visualization"
 Author: Sai Prudvi Raj Yerrapragada
 Program Description: This program is a comprehensive tool for analyzing and visualizing commodity price trends over time. It is tailored to extract data from the 'produce_csv.csv' file, 
 enabling detailed examination and comparison of commodity prices across multiple cities. 
